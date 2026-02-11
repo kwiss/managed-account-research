@@ -1,0 +1,25 @@
+# Cloned reference repos (too large, clone separately)
+repos/
+
+# Foundry build artifacts
+out/
+cache/
+
+# Ralph / automation artifacts
+ralph.sh
+progress.txt
+.last-branch
+prd.json
+
+# Forge
+broadcast/
+
+# OS
+.DS_Store
+
+# Node
+node_modules/
+
+# Env
+.env
+.env.*
